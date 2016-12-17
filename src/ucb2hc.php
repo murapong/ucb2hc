@@ -1,5 +1,5 @@
 <?php
-$url = 'YOUR HIPCHAT ENTPOINT';
+$url = 'YOUR HIPCHAT ENDPOINT';
 
 // Get ’X-UnityCloudBuild-Event' http header
 $event = $_SERVER['HTTP_X_UNITYCLOUDBUILD_EVENT'];
